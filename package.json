@@ -1,0 +1,26 @@
+{
+  "name": "algorithmic-odyssey",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "a collection of algorithms and data structures that I've written, explored, and refined as part of my journey into the fascinating world of computer science and problem-solving. (for educational purposes only)",
+  "scripts": {
+    "test": "vitest run",
+    "test-watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasAfara/algorithmic-odyssey.git"
+  },
+  "author": "Elias Afara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasAfara/algorithmic-odyssey/issues"
+  },
+  "homepage": "https://github.com/EliasAfara/algorithmic-odyssey#readme",
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  },
+  "engines": {
+    "node": ">=20.6.0"
+  }
+}
