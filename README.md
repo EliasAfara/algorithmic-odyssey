@@ -69,8 +69,8 @@ You can also start Vitest in "watch" mode:
 npm run test-watch
 ```
 
-<!-- Banner Image -->
+<!-- Banner Image --> 
 
-[banner]: https://github.com/EliasAfara/algorithmic-odyssey/assets/39487200/108af610-4a17-48cc-b6e9-f63aadd98a38
+[banner]: https://github.com/EliasAfara/algorithmic-odyssey/assets/39487200/7c8dddac-0bdc-4518-93b8-faa404fddf1b
 
 <!-- Badge Links -->
