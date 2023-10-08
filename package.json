@@ -12,7 +12,7 @@
     "url": "git+https://github.com/EliasAfara/algorithmic-odyssey.git"
   },
   "author": "Elias Afara",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/EliasAfara/algorithmic-odyssey/issues"
   },
