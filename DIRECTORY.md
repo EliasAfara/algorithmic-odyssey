@@ -10,5 +10,6 @@
 - **Sorting**
   - [BubbleSort](Sorting/BubbleSort.js)
   - [InsertionSort](Sorting/InsertionSort.js)
+  - [QuickSort](Sorting/QuickSort.js)
   - [SelectionSort](Sorting/SelectionSort.js)
   - [ThreeNumberSort](Sorting/ThreeNumberSort.js)
