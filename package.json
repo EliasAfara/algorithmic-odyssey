@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/EliasAfara/algorithmic-odyssey#readme",
   "devDependencies": {
+    "globby": "^13.2.2",
     "vitest": "^0.34.6"
   },
   "engines": {
