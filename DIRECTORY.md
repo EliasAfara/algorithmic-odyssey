@@ -7,6 +7,9 @@
   - [Swap](Arrays/Swap.js)
   - [TwoNumberSum](Arrays/TwoNumberSum.js)
 
+- **Greedy-Algorithms**
+  - [MinimumWaitingTime](Greedy-Algorithms/MinimumWaitingTime.js)
+
 - **Searching**
   - [BinarySearch](Searching/BinarySearch.js)
   - [ThreeLargestNumbers](Searching/ThreeLargestNumbers.js)
