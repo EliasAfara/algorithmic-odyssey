@@ -7,6 +7,10 @@
   - [Swap](Arrays/Swap.js)
   - [TwoNumberSum](Arrays/TwoNumberSum.js)
 
+- **Searching**
+  - [BinarySearch](Searching/BinarySearch.js)
+  - [ThreeLargestNumbers](Searching/ThreeLargestNumbers.js)
+
 - **Sorting**
   - [BubbleSort](Sorting/BubbleSort.js)
   - [InsertionSort](Sorting/InsertionSort.js)
