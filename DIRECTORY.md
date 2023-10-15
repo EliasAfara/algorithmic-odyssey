@@ -22,4 +22,5 @@
   - [ThreeNumberSort](Sorting/ThreeNumberSort.js)
 
 - **Strings**
+  - [CaesarCipherEncryptor](Strings/CaesarCipherEncryptor.js)
   - [PalindromeCheck](Strings/PalindromeCheck.js)
