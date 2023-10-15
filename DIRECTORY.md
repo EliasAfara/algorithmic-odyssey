@@ -20,3 +20,6 @@
   - [QuickSort](Sorting/QuickSort.js)
   - [SelectionSort](Sorting/SelectionSort.js)
   - [ThreeNumberSort](Sorting/ThreeNumberSort.js)
+
+- **Strings**
+  - [PalindromeCheck](Strings/PalindromeCheck.js)
