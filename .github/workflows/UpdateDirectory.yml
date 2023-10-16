@@ -30,7 +30,7 @@ jobs:
       - name: 🤓 Commit & push new Directory (if needed)
         run: |
           if [[ `git status --porcelain` ]]; then
-            git commit -am "Updated Documentation in README.md"
+            git commit -am "Updated Documentation in DIRECTORY.md"
             git push
           else
             echo "NO CHANGES DETECTED"

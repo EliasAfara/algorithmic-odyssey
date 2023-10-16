@@ -10,6 +10,9 @@
 - **Greedy-Algorithms**
   - [MinimumWaitingTime](Greedy-Algorithms/MinimumWaitingTime.js)
 
+- **Recursion**
+  - [NthFibonacci](Recursion/NthFibonacci.js)
+
 - **Searching**
   - [BinarySearch](Searching/BinarySearch.js)
   - [ThreeLargestNumbers](Searching/ThreeLargestNumbers.js)
