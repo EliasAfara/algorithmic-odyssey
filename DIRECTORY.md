@@ -12,6 +12,7 @@
 
 - **Recursion**
   - [NthFibonacci](Recursion/NthFibonacci.js)
+  - [ProductSum](Recursion/ProductSum.js)
 
 - **Searching**
   - [BinarySearch](Searching/BinarySearch.js)
