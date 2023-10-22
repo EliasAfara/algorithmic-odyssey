@@ -3,6 +3,7 @@
 - **Arrays**
   - [IsValidSubsequence](Arrays/IsValidSubsequence.js)
   - [MoveElementToEnd](Arrays/MoveElementToEnd.js)
+  - [NonConstructibleChange](Arrays/NonConstructibleChange.js)
   - [SortedSquaredArray](Arrays/SortedSquaredArray.js)
   - [Swap](Arrays/Swap.js)
   - [TwoNumberSum](Arrays/TwoNumberSum.js)
