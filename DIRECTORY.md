@@ -29,3 +29,4 @@
 - **Strings**
   - [CaesarCipherEncryptor](Strings/CaesarCipherEncryptor.js)
   - [PalindromeCheck](Strings/PalindromeCheck.js)
+  - [RunLengthEncoding](Strings/RunLengthEncoding.js)
