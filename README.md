@@ -69,7 +69,29 @@ You can also start Vitest in "watch" mode:
 npm run test-watch
 ```
 
-<!-- Banner Image --> 
+### Creating New Algorithms and Tests
+
+If you'd like to contribute and add new algorithms and their corresponding test files to this repository, you can use an npm script we've provided. Please note that this step is optional, and you can create the files manually if you prefer.
+
+To create new algorithm and test files, follow these steps:
+
+1. Open your terminal and navigate to the root directory of the repository.
+
+2. Use the following command to create a new algorithm and its corresponding test file. Replace `<category>`, `<algorithm.js>`, and `<algorithm.test.js>` with your desired values:
+
+   ```bash
+   npm run create-algorithm <category> <algorithm.js> <algorithm.test.js>
+   ```
+
+   For example:
+
+   ```bash
+   npm run create-algorithm Searching BinarySearch.js BinarySearch.test.js
+   ```
+
+3. The script will create the specified algorithm and test files in the appropriate category folder.
+
+<!-- Banner Image -->
 
 [banner]: https://github.com/EliasAfara/algorithmic-odyssey/assets/39487200/7c8dddac-0bdc-4518-93b8-faa404fddf1b
 

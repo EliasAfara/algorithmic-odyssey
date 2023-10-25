@@ -5,7 +5,8 @@
   "description": "a collection of algorithms and data structures that I've written, explored, and refined as part of my journey into the fascinating world of computer science and problem-solving. (for educational purposes only)",
   "scripts": {
     "test": "vitest run",
-    "test-watch": "vitest"
+    "test-watch": "vitest",
+    "create-algorithm": "./create_algorithm.sh"
   },
   "repository": {
     "type": "git",
