@@ -77,16 +77,16 @@ To create new algorithm and test files, follow these steps:
 
 1. Open your terminal and navigate to the root directory of the repository.
 
-2. Use the following command to create a new algorithm and its corresponding test file. Replace `<category>`, `<algorithm.js>`, and `<algorithm.test.js>` with your desired values:
+2. Use the following command to create a new algorithm and its corresponding test file. Replace `<category>`, `<algorithm>` with your desired values:
 
    ```bash
-   npm run create-algorithm <category> <algorithm.js> <algorithm.test.js>
+   npm run create-algorithm <category> <algorithm>
    ```
 
    For example:
 
    ```bash
-   npm run create-algorithm Searching BinarySearch.js BinarySearch.test.js
+   npm run create-algorithm Searching BinarySearch
    ```
 
 3. The script will create the specified algorithm and test files in the appropriate category folder.
