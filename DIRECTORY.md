@@ -28,5 +28,7 @@
 
 - **Strings**
   - [CaesarCipherEncryptor](Strings/CaesarCipherEncryptor.js)
+  - [CommonCharacters](Strings/CommonCharacters.js)
+  - [GenerateDocument](Strings/GenerateDocument.js)
   - [PalindromeCheck](Strings/PalindromeCheck.js)
   - [RunLengthEncoding](Strings/RunLengthEncoding.js)
