@@ -4,7 +4,7 @@
 
 Welcome to my Algorithmic Odyssey! This repository is a collection of algorithms and data structures that I've written, explored, and refined as part of my journey into the fascinating world of computer science and problem-solving. Whether you're a fellow learner or an enthusiast, this repository serves as a record of my algorithmic adventures, offering a range of solutions, explanations, and insights
 
-![JavaScript Banner][banner]
+![Algorithmic Odyssey Banner][banner]
 
 <!-- Disclaimer -->
 
@@ -93,6 +93,6 @@ To create new algorithm and test files, follow these steps:
 
 <!-- Banner Image -->
 
-[banner]: https://github.com/EliasAfara/algorithmic-odyssey/assets/39487200/7c8dddac-0bdc-4518-93b8-faa404fddf1b
+[banner]: https://github.com/EliasAfara/algorithmic-odyssey/assets/39487200/eb07f16e-11e6-4f3c-9ee9-504f5dbf83c7
 
 <!-- Badge Links -->
